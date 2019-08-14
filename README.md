@@ -1,1 +1,2 @@
-# omnistack-7
+# OmniStack 7.0
+Project Omnistack 7.0 - Rocketseat
